@@ -2,6 +2,6 @@
   "name": "John Validator",
   "website": "",
   "description": "John indexes and provides data availability to blockchain protocols.",
-  "logo": "https://john-validator-files.vercel.app/logo.png",
+  "logo": "https://raw.githubusercontent.com/johnvalidator/eigen-metadata/main/logo.png",
   "twitter": ""
 }
